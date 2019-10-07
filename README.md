@@ -2,7 +2,7 @@
 
 ### Project for generate new images for Fashion MNIST
 
-This proejct uses 
+This proejct uses: 
 - Keras
 - Python
 - Jupyter
