@@ -1,11 +1,11 @@
 ## Generative Adversarial Networks (GAN) for Fashion MNIST images
 
-<p align="center" style='font-size:18px;'>
+<p align="center" style='font-size:20px;'>
   <img src="./assets/mnist_0.png">
   <b>Original</b><br>
 </p>
 
-<p  align="center" style='font-size:18px;'>
+<p  align="center" style='font-size:20px;'>
   <img src="./assets/generate_mnist_0.png">
   <b>Generate</b><br>
 </p>
