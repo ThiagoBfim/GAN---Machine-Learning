@@ -13,14 +13,14 @@ This proejct uses:
     <img src="./assets/mnist_0.png">
 </p>
 <p align="center" style='font-size:20px;text-align:center;'>
-  <b>Original</b><br>
+  <b>Original</b>
 </p>
 
 <p align="center">
      <img src="./assets/generate_mnist_0.png">
 </p>
 <p  align="center" style='font-size:20px;text-align:center;'>
-  <b>Generate</b><br>
+  <b>Generate</b>
 </p>
 
 ### Reference
